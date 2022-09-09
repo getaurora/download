@@ -1,6 +1,6 @@
 
 ## 极光 (aurora）最新版本下载 Latest version of aurora
-- <a href="https://github.com/getaurora/download/releases/download/v2.8.3/aurora-v2.8.3-release-1.apk"> Android </a>
+- <a href="https://github.com/getaurora/download/releases/download/v3.0.0/aurora-v3.0.0s-release-1.apk"> Android </a>
 - <a href="https://github.com/getaurora/download/releases/download/v2.8.5/aurora-v2.8.5S-release.exe"> Windows </a>
 - <a href="https://github.com/getaurora/download/releases/download/v2.8.3/aurora-v2.8.3S-release-1.pkg"> Mac OS </a>
 - IOS 敬请期待 

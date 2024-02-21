@@ -1,13 +1,4 @@
-## 极光（aurora)最新版4.0下载 全新体验，界面升级，VIP版本用户请使用旧版本账号直接登录，不要重新注册帐号，如果忘记密码，请寻求客服帮助重置密码（Android 版本、Mac版本 稍晚推出，敬请期待）。
-## 注意到一部分用户在未登录的情况下进行重置密码操作，旧版本用户请先登录才能重置密码，新版本的重置密码功能，仅适用于在新版本成功登录过的用户，如果忘记旧版本密码，请联系客服帮忙重置密码。
-## 目前此版本处于公测阶段，尚存在较多问题，我们正在加班加点修改中，暂停下载，等待后续更新。
-- <a href="https://files.7ecnologia.com/aurora-4.0_windows.exe"> Windows 下载连接1</a>
-- <a href="https://files.jsa1004.com/aurora-4.0_windows.exe"> Windows 下载连接2</a>
-- <a href="https://yogurtp3.com:10014/download/aurora-4.0_windows.exe"> Windows 下载连接3</a>
-
-
-
-## 极光（aurora)3.X版下载(将会被4.X版本逐步取代，请新老用户转移到4.X 版本)
+## 极光（aurora)3.X版下载
 - <a href="https://files.7ecnologia.com/aurora_v3.0.8-arm64.apk"> Android 下载连接1</a>
 - <a href="https://files.jsa1004.com/aurora_v3.0.8-arm64.apk"> Android 下载连接2</a>
 - <a href="http://121.10.141.102:8888/new.apk"> Android 下载连接3</a>

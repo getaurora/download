@@ -11,7 +11,7 @@
 - <a href="https://files.7ecnologia.com/Aurora_3.0.6_x64.dmg"> Mac OS 下载链接2</a>
 
 
-## 极光 (aurora）稳定版本下载 Stable version of aurora(将会被4.X版本逐步取代，请新老用户转移到4.X 版本)
+## 极光 (aurora）稳定版本下载 Stable version of aurora
 - <a href="https://a.jsa1004.com/aurora-v3.0.7S-update1.apk"> Android aurora-v3.0.7S-update1.apk 下载链接1</a>
 - <a href="https://files.7ecnologia.com/aurora-v3.0.7S-update1.apk"> Android aurora-v3.0.7S-update1.apk 下载链接2</a>
 - <a href="https://a.jsa1004.com/aurora-v3.0.7S-release.apk"> Android aurora-v3.0.7S-release.apk 下载链接1</a>
